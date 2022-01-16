@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\kronometre\kronometre\obj\Debug\kronometre.Form1.resources
+C:\Users\ASUS\source\repos\kronometre\kronometre\obj\Debug\kronometre.Properties.Resources.resources
+C:\Users\ASUS\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\kronometre\kronometre\obj\Debug\kronometre.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\kronometre\kronometre\bin\Debug\kronometre.exe.config
+C:\Users\ASUS\source\repos\kronometre\kronometre\bin\Debug\kronometre.exe
+C:\Users\ASUS\source\repos\kronometre\kronometre\bin\Debug\kronometre.pdb
+C:\Users\ASUS\source\repos\kronometre\kronometre\obj\Debug\kronometre.exe
+C:\Users\ASUS\source\repos\kronometre\kronometre\obj\Debug\kronometre.pdb
